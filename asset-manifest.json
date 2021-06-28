@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/habbit-reminder/static/css/main.db1fd539.chunk.css",
-    "main.js": "/habbit-reminder/static/js/main.9d9ddd72.chunk.js",
-    "main.js.map": "/habbit-reminder/static/js/main.9d9ddd72.chunk.js.map",
-    "runtime-main.js": "/habbit-reminder/static/js/runtime-main.7ab1aa17.js",
-    "runtime-main.js.map": "/habbit-reminder/static/js/runtime-main.7ab1aa17.js.map",
-    "static/js/2.daefb4dd.chunk.js": "/habbit-reminder/static/js/2.daefb4dd.chunk.js",
-    "static/js/2.daefb4dd.chunk.js.map": "/habbit-reminder/static/js/2.daefb4dd.chunk.js.map",
-    "index.html": "/habbit-reminder/index.html",
-    "precache-manifest.dbc415c695f2bd6154707ed1d846d1d3.js": "/habbit-reminder/precache-manifest.dbc415c695f2bd6154707ed1d846d1d3.js",
-    "service-worker.js": "/habbit-reminder/service-worker.js",
-    "static/css/main.db1fd539.chunk.css.map": "/habbit-reminder/static/css/main.db1fd539.chunk.css.map",
-    "static/js/2.daefb4dd.chunk.js.LICENSE.txt": "/habbit-reminder/static/js/2.daefb4dd.chunk.js.LICENSE.txt"
+    "main.css": "/react-jsremindo/static/css/main.db1fd539.chunk.css",
+    "main.js": "/react-jsremindo/static/js/main.9d9ddd72.chunk.js",
+    "main.js.map": "/react-jsremindo/static/js/main.9d9ddd72.chunk.js.map",
+    "runtime-main.js": "/react-jsremindo/static/js/runtime-main.254579c9.js",
+    "runtime-main.js.map": "/react-jsremindo/static/js/runtime-main.254579c9.js.map",
+    "static/js/2.daefb4dd.chunk.js": "/react-jsremindo/static/js/2.daefb4dd.chunk.js",
+    "static/js/2.daefb4dd.chunk.js.map": "/react-jsremindo/static/js/2.daefb4dd.chunk.js.map",
+    "index.html": "/react-jsremindo/index.html",
+    "precache-manifest.43d2512a5a4b7bb6793add9a8de40f5c.js": "/react-jsremindo/precache-manifest.43d2512a5a4b7bb6793add9a8de40f5c.js",
+    "service-worker.js": "/react-jsremindo/service-worker.js",
+    "static/css/main.db1fd539.chunk.css.map": "/react-jsremindo/static/css/main.db1fd539.chunk.css.map",
+    "static/js/2.daefb4dd.chunk.js.LICENSE.txt": "/react-jsremindo/static/js/2.daefb4dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ab1aa17.js",
+    "static/js/runtime-main.254579c9.js",
     "static/js/2.daefb4dd.chunk.js",
     "static/css/main.db1fd539.chunk.css",
     "static/js/main.9d9ddd72.chunk.js"
