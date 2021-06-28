@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/habbit-reminder/static/css/main.db1fd539.chunk.css",
+    "main.js": "/habbit-reminder/static/js/main.9d9ddd72.chunk.js",
+    "main.js.map": "/habbit-reminder/static/js/main.9d9ddd72.chunk.js.map",
+    "runtime-main.js": "/habbit-reminder/static/js/runtime-main.7ab1aa17.js",
+    "runtime-main.js.map": "/habbit-reminder/static/js/runtime-main.7ab1aa17.js.map",
+    "static/js/2.daefb4dd.chunk.js": "/habbit-reminder/static/js/2.daefb4dd.chunk.js",
+    "static/js/2.daefb4dd.chunk.js.map": "/habbit-reminder/static/js/2.daefb4dd.chunk.js.map",
+    "index.html": "/habbit-reminder/index.html",
+    "precache-manifest.dbc415c695f2bd6154707ed1d846d1d3.js": "/habbit-reminder/precache-manifest.dbc415c695f2bd6154707ed1d846d1d3.js",
+    "service-worker.js": "/habbit-reminder/service-worker.js",
+    "static/css/main.db1fd539.chunk.css.map": "/habbit-reminder/static/css/main.db1fd539.chunk.css.map",
+    "static/js/2.daefb4dd.chunk.js.LICENSE.txt": "/habbit-reminder/static/js/2.daefb4dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ab1aa17.js",
+    "static/js/2.daefb4dd.chunk.js",
+    "static/css/main.db1fd539.chunk.css",
+    "static/js/main.9d9ddd72.chunk.js"
+  ]
+}
